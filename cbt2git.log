@@ -1,0 +1,25 @@
+2023-04-03 02:57:32.282226 - Initialized conversion of CBT827
+2023-04-03 02:57:32.468285 - Received CBT.V504.FILE827.PDS from FILE827.XMI 
+2023-04-03 02:57:32.470532 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:57:32.471552 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:57:32.472461 - Found $$README.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/$$README
+2023-04-03 02:57:32.473423 - Found $RFLDOLD.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/$RFLDOLD
+2023-04-03 02:57:32.474322 - Found #RLP.rexx (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/#RLP
+2023-04-03 02:57:32.475281 - Found @FILE827.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/@FILE827
+2023-04-03 02:57:32.476189 - Found CONFIRM.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/CONFIRM
+2023-04-03 02:57:32.477151 - Found RFLDOLD.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RFLDOLD
+2023-04-03 02:57:32.478023 - Found RFMAI50.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RFMAI50
+2023-04-03 02:57:32.479019 - Found RLP.rexx (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLP
+2023-04-03 02:57:32.479959 - Found RLPH00.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPH00
+2023-04-03 02:57:32.480872 - Found RLPH01.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPH01
+2023-04-03 02:57:32.481732 - Found RLPH01A.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPH01A
+2023-04-03 02:57:32.482631 - Found RLPH01B.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPH01B
+2023-04-03 02:57:32.483699 - Found RLPH02.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPH02
+2023-04-03 02:57:32.484631 - Found RLPH03.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPH03
+2023-04-03 02:57:32.485643 - Found RLPH04.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPH04
+2023-04-03 02:57:32.486586 - Found RLPP00.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPP00
+2023-04-03 02:57:32.487513 - Found RLPP01.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPP01
+2023-04-03 02:57:32.488456 - Found RLPP02.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPP02
+2023-04-03 02:57:32.489341 - Found RLPP03.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLPP03
+2023-04-03 02:57:32.490300 - Found RLP02.rexx (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/RLP02
+2023-04-03 02:57:32.491318 - Found X.txt (text/plain) in CBT.V504.FILE827.PDS, moved to PDS/X
